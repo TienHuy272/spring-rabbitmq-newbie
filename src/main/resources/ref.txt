@@ -1,1 +1,8 @@
 https://www.youtube.com/watch?v=o4qCdBR4gUM&ab_channel=JavaTechieJavaTechie
+
+Post queue via post man to publisher
+publisher create rabbit template and send to exchange bind with router link
+exchanger send to messages queue
+consumer consume queue messages in Consumer.class
+
+check by http://localhost:15672/
